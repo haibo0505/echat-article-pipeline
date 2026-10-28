@@ -1,0 +1,16 @@
+config.json
+**/config.local.json
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+rendered/
+wechat-output/
+cache/
+dist/
+*.log
+publish-result.json
+local-install.json

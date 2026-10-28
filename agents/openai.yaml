@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号创作与排版发布"
+  short_description: "从选题、写作和配图到微信排版、完整发布包及授权后的公众号草稿发布"
+  default_prompt: "使用 $wechat-article-pipeline 根据我的素材完成公众号文章、配图、排版和发布包。"

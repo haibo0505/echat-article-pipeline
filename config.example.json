@@ -1,0 +1,16 @@
+{
+  "output_dir": "",
+  "vault_root": "",
+  "cache_dir": "",
+  "image_search_paths": [],
+  "settings": {
+    "default_theme": "newspaper",
+    "auto_open_browser": false,
+    "header_author_label": ""
+  },
+  "wechat": {
+    "app_id": "",
+    "app_secret": "",
+    "author": ""
+  }
+}
